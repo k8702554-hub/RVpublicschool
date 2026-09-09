@@ -1,0 +1,6 @@
+{
+  "name": "R.V. Public School - CBSE Affiliated Senior Secondary School Agra",
+  "description": "Official website for R.V. Public School, Agra. CBSE affiliated premier institution offering modern 8-acre campus, digital classrooms, advanced laboratories, holistic academics, and sports excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
